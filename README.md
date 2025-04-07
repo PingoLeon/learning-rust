@@ -6,4 +6,4 @@ Sources :
 
 doc.rust-lang.org/book
 
-😎❤️
+❤️
